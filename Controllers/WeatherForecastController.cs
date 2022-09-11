@@ -8,7 +8,6 @@ using Microsoft.Extensions.Logging;
 namespace Catalog.Controllers
 {
 
-    
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
